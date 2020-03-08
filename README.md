@@ -57,7 +57,7 @@
 * Middle click and drag pans the view
 * Scroll adjusts how far away the camera is from the vehicle
 
-## Save data
+## Save data - modified by YUN
 * mkdir build/logging 
 * ./viz 192.168.3.81 192.168.3.1 -s true
 
