@@ -56,3 +56,8 @@
 * Click and drag rotates the view
 * Middle click and drag pans the view
 * Scroll adjusts how far away the camera is from the vehicle
+
+## Save data
+* save data in `build/logging` folder
+* ring, encoder, timestamp, x, y, z(m), intensity, reflectivity, noise, range(mm)
+* save, 512x10 --> `./viz 192.168.3.81 192.168.3.1 -m 512x10  -s true`
